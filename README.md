@@ -16,6 +16,7 @@ Se han normalizado la mayoría de variables, las respuestas al ir del 1-5 no, ve
 Primeras aproximaciones al objetivo, hemos creado el umbral {Baja, Media, Alta} para cada rasgo y lo hemos aplicado para la media de respuestas de cada bloque de cuestiones, así se han creado 5 nuevas clasificaciones y fueron añadidas como variables al dataset.
 
 ¿Tendremos que pasar a numéricas estas variables?
+
 05/11/2024
 Hemos pasado a numéricas estas variables, creando unas nuevas: EXT_class_num, EST_class_num,...
 
