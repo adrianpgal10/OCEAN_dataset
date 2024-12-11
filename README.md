@@ -31,6 +31,19 @@ Y ya se procedió a visualizar métricas, primero para el primer rasgo, EXTRAVER
 Posterior a esto, la idea ya fue ejecutar con el train y test para los distintos modelos seleccionados.
 
 Ahora la siguiente cuestión es ver si haciendo PCA obtenemos una mejora en los tiempos y en el f1_score.
+11/11/2024
+Durante estos días se han descartado la idea del PCA ya que no reducía tiempos ni mejoraba el f1_score.
+
+Ejecutamos los distintos modelos, mucho tiempo de ejecución sobre todo en el KNN que se ve que no es efectivo,
+
+Comparación de modelos y de Matrices de Confusión.
+
+CrossValidation con la desviación estándar aunque se han perdido algún valor de algún rasgo por error en el Kernel al tardar tanto en ejecutarse. Pero se ve muy poca variación.
+
+Muchas dificultades para buscar hiperparámetros y regularización por el coste computacional que supone por la gran dimensionalidad.
+
+Finalización del proyecto.
+
 
 
 
